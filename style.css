@@ -79,6 +79,7 @@ header nav ul li a{
 
 /*precios*/
 
+
 .precios{
     display: flex;
     justify-content: space-around;
@@ -89,10 +90,13 @@ header nav ul li a{
     text-align: center;
 }
 
+
 .precio1 ul,.precio2 p{
     text-align: left;
     margin-top: 40px;
 }
+
+
 
 .precio1,.precio2{
     background-color: white;
@@ -104,10 +108,13 @@ header nav ul li a{
     margin-top: 250px;
 }
 
+
+
 .btn-2V{
     text-align: center;
     margin-top: 110px;
 }
+
 
 .btn-1V a{
     border-style: solid;
@@ -117,6 +124,8 @@ header nav ul li a{
 
 }
 
+
+
 .btn-2V a{
     border-style: solid;
     border-color: black;
@@ -125,3 +134,5 @@ header nav ul li a{
     color: white;
 
 }
+
+
